@@ -1,2 +1,3 @@
 # movieRcommand_SimpleImplementation
-itemCF
+
+基于pyqt和itemcf的电影推荐系统demo
